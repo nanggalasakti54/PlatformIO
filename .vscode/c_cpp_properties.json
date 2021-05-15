@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/IoT_19Maret2021/include",
-                "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/IoT_19Maret2021/src",
+                "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/PlatformIO/include",
+                "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/PlatformIO/src",
                 "C:/Users/SAKTI/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/SAKTI/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/SAKTI/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
@@ -106,8 +106,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/IoT_19Maret2021/include",
-                    "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/IoT_19Maret2021/src",
+                    "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/PlatformIO/include",
+                    "C:/Users/SAKTI/OneDrive/Documents/PlatformIO/Projects/PlatformIO/src",
                     "C:/Users/SAKTI/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/SAKTI/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/SAKTI/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
