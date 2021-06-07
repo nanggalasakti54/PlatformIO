@@ -1,5 +1,8 @@
 #include <Arduino.h>
 #include <WiFi.h>
+#include <OneWire.h>
+#include <DallasTemperature.h>
+#include <MQTT.h>
 
 const char* WIFI_SSID = "WIFI gratis By ICON+";
 const char* WIFI_PASS = "1sampai8";
